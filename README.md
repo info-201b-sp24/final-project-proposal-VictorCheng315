@@ -27,8 +27,11 @@ In our daily lives, we still see stray pets on the streets, which sparked our in
  The research questions are:
 
 What are the most common breeds among adoptable dogs?
+
 Is there a correlation between age or size and adoption rates?
+
 How do the characteristics of dogs vary across different states?
+
 Does the color of the dog influence its chances of adoption?
 
 2. Related Work  
@@ -85,7 +88,6 @@ Moreover, the dataset is limited to dogs listed on PetFinder. Although PetFinder
 4. Implications
 
 The potential impact of this study is manifold, starting with the enhancement of technology platforms. For individuals involved in the design and technology of platforms such as PetFinder, the findings from this study can provide important insights that shape the development of new features. These characteristics can be especially helpful in promoting animals that are often overlooked in the adoption process, such as older animals or specific breeds. The second is about strategies for public engagement and education. In addition to influencing policy and technology, insights from this research may also be critical in advancing public engagement initiatives. Educational campaigns can be designed to change public perceptions and encourage more diverse adoption options. By educating the community about the needs and benefits of adopting less popular breeds, these events may lead to a shift in adoption patterns and improved outcomes for these animals.
-
 
 5. Limitations & Challenges
 
